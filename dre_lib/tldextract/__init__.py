@@ -1,0 +1,1 @@
+from tldextract import extract

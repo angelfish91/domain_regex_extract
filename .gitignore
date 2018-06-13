@@ -1,0 +1,5 @@
+*.log
+*.temp
+*.ipynb
+*.pyc
+.idea
